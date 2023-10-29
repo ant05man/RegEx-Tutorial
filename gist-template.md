@@ -1,10 +1,16 @@
-# Title (replace with your title)
+# RegEx-Tutorial
 
 Introductory paragraph (replace this with your text)
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This will be a tutorial explaining how a regular expression functions and we will break down each part of the expression.
+
+## Example
+
+For example, the following regular expression can be used to verify that user input is a valid email address:
+
+/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
 ## Table of Contents
 
@@ -23,6 +29,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
+Always at the begining and the end of the string.
 
 ### Quantifiers
 
