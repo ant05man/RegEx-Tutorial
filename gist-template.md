@@ -1,6 +1,6 @@
 # RegEx-Tutorial
 
-Introductory paragraph (replace this with your text)
+A regular expression (Regex/Regexp), is a special text string for describing a search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string.
 
 ## Summary
 
@@ -85,4 +85,3 @@ For example, if you want to match the word "apple" only if it is followed by "pi
 ## Author
 Anthony Littlejohn
 www.github.com/ant05man
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
