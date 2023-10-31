@@ -98,7 +98,7 @@ Look-ahead is represented by (?=pattern) for positive look-ahead (asserts that t
 <br>THEN I am taken to the corresponding sections of the tutorial.
 
 <br>WHEN I read through each section of the tutorial.
-br>THEN I find a detailed explanation of what a specific component of the regex does.
+<br>THEN I find a detailed explanation of what a specific component of the regex does.
 
 <br>WHEN I reach the end of the tutorial.
 <br>THEN I find a section about the author and a link to the author’s GitHub profile.
