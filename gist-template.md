@@ -42,9 +42,9 @@ apple|banana
 
 ### Character Classes
 [a-z] - Matches lowercase alphabetic characters between a and z
-\w - Matches a single word
-\d - Matches a single character that is a digit 0-9
-. - Matches any character
+<br>\w - Matches a single word
+<br>\d - Matches a single character that is a digit 0-9
+<br>. - Matches any character
 
 ### Flags
 Used to modify how the pattern is matched
