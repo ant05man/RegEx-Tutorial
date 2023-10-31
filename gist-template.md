@@ -82,6 +82,27 @@ Look-ahead is represented by (?=pattern) for positive look-ahead (asserts that t
 <br>Look-behind is represented by (?<=pattern) for positive look-behind (asserts that the pattern precedes) and (?<!pattern) for negative look-behind (asserts that the pattern doesn't precede).
 <br>For example, if you want to match the word "apple" only if it is followed by "pie," you can use the pattern apple(?= pie).
 
+### User Story
+<br>AS A web development student
+<br>I WANT a tutorial explaining a specific regex
+<br>SO THAT I can understand the search pattern the regex defines
+
+### Acceptance Criteria
+<br>GIVEN a regex tutorial
+
+<br>WHEN I open the tutorial.
+<br>THEN I see a descriptive title and introductory paragraph explaining the purpose of the tutorial, a summary describing the regex featured in the tutorial, 
+<br>a table of contents linking to different sections that break down each component of the regex and explain what it does, and a section about the author with a link to the author’s GitHub profile.
+
+<br>WHEN I click on the links in the table of contents.
+<br>THEN I am taken to the corresponding sections of the tutorial.
+
+<br>WHEN I read through each section of the tutorial.
+br>THEN I find a detailed explanation of what a specific component of the regex does.
+
+<br>WHEN I reach the end of the tutorial.
+<br>THEN I find a section about the author and a link to the author’s GitHub profile.
+
 ## Author
 Anthony Littlejohn
 <br>www.github.com/ant05man
